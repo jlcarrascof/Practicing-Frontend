@@ -1,0 +1,15 @@
+h1 {
+    color: white;
+    background-color: chocolate;
+}
+
+hr {
+    height: 20px;
+    background-color: blue;
+}
+
+.vertical-line {
+    height: 300px;
+    width: 5px;
+    background-color: red;
+}
