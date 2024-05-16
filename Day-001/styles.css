@@ -2,3 +2,8 @@ h1 {
     color: red;
     background-color: chocolate;
 }
+
+hr {
+    height: 20px;
+    background-color: blue;
+}
