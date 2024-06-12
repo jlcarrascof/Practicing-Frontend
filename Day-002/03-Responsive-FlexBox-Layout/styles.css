@@ -37,3 +37,25 @@ body {
 .side2 {
     background-color: #9999ff;
 }
+
+@media all and (min-width: 800px) {
+    .main {
+        flex: 3;
+    }
+
+    .side1 {
+        order: 1;
+    }
+
+    .side2 {
+        order: 2;
+    }
+    .main {
+        order: 2;
+    }
+
+    .footer {
+        order: 4;
+    }
+
+}
