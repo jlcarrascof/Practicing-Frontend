@@ -3,6 +3,18 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.wrapper > * {
+    padding: 10px;
+    margin: 10px;
+    flex: 1 100%;
+}
+
 .header {
     background-color: #ffcc00;
     height: 120px;
