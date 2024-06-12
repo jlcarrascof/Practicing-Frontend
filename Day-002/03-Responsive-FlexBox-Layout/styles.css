@@ -12,3 +12,16 @@ body {
     background-color: #66ccff;
     height: 80px;
 }
+
+.main {
+    background-color: #ff6667;
+    height: 300px;
+}
+
+.side1 {
+    background-color: #65cc99;
+}
+
+.side2 {
+    background-color: #9999ff;
+}
