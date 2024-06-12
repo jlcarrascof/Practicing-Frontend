@@ -2,3 +2,13 @@ body {
     background-color: #252432;
     font-family: 'Roboto', sans-serif;
 }
+
+.header {
+    background-color: #ffcc00;
+    height: 120px;
+}
+
+.footer {
+    background-color: #66ccff;
+    height: 80px;
+}
