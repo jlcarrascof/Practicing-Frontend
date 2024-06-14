@@ -45,3 +45,16 @@ body {
 .input-box label {
     color: #333;
 }
+
+.form .input-box input {
+    position: relative;
+    height: 50px;
+    width: 100%;
+    font-size: 1rem;
+    outline: none;
+    color: #707070;
+    margin-top: 8px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 0 15px;
+}
