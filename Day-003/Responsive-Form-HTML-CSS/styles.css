@@ -64,6 +64,10 @@ body {
     column-gap: 15px;
 }
 
+.form .gender-option {
+    column-gap: 5px;
+}
+
 /* Responsive */
 
 @media screen and (max-width: 500px) {
