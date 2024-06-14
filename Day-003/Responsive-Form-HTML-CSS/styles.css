@@ -64,8 +64,18 @@ body {
     column-gap: 15px;
 }
 
-.form .gender-option {
+.form :where(.gender-option, .gender) {
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+}
+
+.form .gender {
     column-gap: 5px;
+}
+
+.form :where(.gender input, .gender label) {
+    cursor: pointer;
 }
 
 /* Responsive */
