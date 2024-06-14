@@ -64,6 +64,17 @@ body {
     column-gap: 15px;
 }
 
+.form .gender-box {
+    margin-top: 20px;
+}
+
+.form .gender-box h3 {
+    color: #333;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
 .form :where(.gender-option, .gender) {
     display: flex;
     align-items: center;
