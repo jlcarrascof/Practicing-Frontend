@@ -90,6 +90,10 @@ body {
     cursor: pointer;
 }
 
+.address :where(input, .select-box) {
+    margin-top: 15px;
+}
+
 .select-box select {
     height: 100%;
     width: 100%;
